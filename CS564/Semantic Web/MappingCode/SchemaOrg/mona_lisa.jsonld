@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "VisualArtwork",
+  "name": "Mona Lisa",
+  "alternateName": "Visual Work of the Mona Lisa",
+  "artForm": "Painting",
+  "creator": [
+    {
+    "@type": "Person",
+    "name": "Leonardo da Vinci"
+    }
+  ],
+  "dateCreated": "1506",
+  "locationCreated": "Florence, Italy",
+  "sameAs": "http://wikidata.org/entity/Q12418",
+  "url": "http://data.louvre.example/visual/mona_lisa",
+  "description": "This portrait was doubtless started in Florence around 1503. It is thought to be of Lisa Gherardini, wife of a Florentine cloth merchant ...",
+  "height": "0.77 meters",
+  "width": "0.53 meters",
+  "artworkSurface": "Wood",
+  "artMedium": "Oil Paint"
+}

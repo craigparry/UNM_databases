@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "VisualArtwork",
+  "name": "The Farm",
+  "alternateName": "Appearance of the Farm",
+  "artForm": "Painting",
+  "creator": [
+    {
+    "@type": "Person",
+    "name": "Juan Miro"
+    }
+  ],
+  "dateCreated": "1922",
+  "locationCreated": "Mont-roig del Camp, Spain",
+  "sameAs": "https://www.wikidata.org/wiki/Q1192436",
+  "url": "https://www.nga.gov/collection/art-object-page.69660.html",
+  "description": "A brilliant amalgamation of an intense, even primitive, realism with the formal vocabulary of cubism.",
+  "height": "123.8 centimeters",
+  "width": "141.3 centimeters",
+  "artworkSurface": "Canvas",
+  "artMedium": "Oil Paint"
+}

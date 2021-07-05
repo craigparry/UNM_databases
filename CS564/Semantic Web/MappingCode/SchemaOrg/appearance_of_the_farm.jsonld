@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VisualArtwork",
+  "name": "The Farm",
+  "alternateName": "Appearance of The Farm",
+  "mainEntity": "Tree",
+  "dateCreated": "1922",
+  "contentLocation": "Mont-roig del Camp",
+  "url": "https://www.nga.gov/collection/art-object-page.69660.html",
+  "description": "A brilliant amalgamation of an intense, even primitive, realism with the formal vocabulary of cubism.",
+  "creator": [
+    {
+    "@type": "Person",
+    "name": "Juan Miro"
+    }
+  ]
+}

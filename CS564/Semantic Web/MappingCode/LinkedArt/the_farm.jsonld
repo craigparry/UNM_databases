@@ -1,0 +1,179 @@
+<script type="application/ld+json">
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json", 
+  "id": "https://linked.art/example/object/0", 
+  "type": "HumanMadeObject", 
+  "_label": "The Farm",
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300033618", 
+      "type": "Type", 
+      "_label": "Painting", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443", 
+          "type": "Type", 
+          "_label": "Type of Work"
+        }
+      ]
+    }, 
+    {
+      "id": "http://vocab.getty.edu/aat/300133025", 
+      "type": "Type", 
+      "_label": "Artwork"
+    }
+  ], 
+  "identified_by": [
+    {
+      "type": "Name", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670", 
+          "type": "Type", 
+          "_label": "Primary Name"
+        }
+      ], 
+      "content": "The Farm",
+      "language": [
+        {
+          "id": "http://vocab.getty.edu/aat/300388277", 
+          "type": "Language", 
+          "_label": "English"
+        }
+      ]
+    },
+    {
+      "type": "Identifier", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355", 
+          "type": "Type", 
+          "_label": "Accession Number"
+        }
+      ], 
+      "content": "1987.18.1"
+    }
+  ], 
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435416", 
+          "type": "Type", 
+          "_label": "Description", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049", 
+              "type": "Type", 
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ], 
+      "content": "A brilliant amalgamation of an intense, even primitive, realism with the formal vocabulary of cubism."
+    }
+  ], 
+  "dimension": [
+    {
+      "type": "Dimension", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055644", 
+          "type": "Type", 
+          "_label": "Height"
+        }
+      ], 
+      "value":  123.8,
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit", 
+        "_label": "centimeters"
+      }
+    }, 
+    {
+      "type": "Dimension", 
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647", 
+          "type": "Type", 
+          "_label": "Width"
+        }
+      ], 
+      "value": 141.3,
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit", 
+        "_label": "centimeters"
+      }
+    }
+  ], 
+  "made_of": [
+    {
+      "id": "http://vocab.getty.edu/aat/300012363", 
+      "type": "Material", 
+      "_label": "Canvas"
+    }, 
+    {
+      "id": "http://vocab.getty.edu/aat/300015050", 
+      "type": "Material", 
+      "_label": "Oil Paint"
+    }
+  ], 
+  "shows": [
+    {
+      "id": "https://www.nga.gov/collection/art-object-page.69660.html",
+      "type": "VisualItem", 
+      "_label": "Appearance of the Farm"
+    }
+  ], 
+  "current_owner": [
+    {
+      "id": "https://www.nga.gov/",
+      "type": "Group", 
+      "_label": "National Gallery of Art"
+    }
+  ], 
+  "equivalent": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q1192436",
+      "type": "HumanMadeObject", 
+      "_label": "The Farm"
+    }
+  ],
+  "produced_by": {
+    "type": "Production", 
+    "timespan": {
+      "type": "TimeSpan", 
+      "identified_by": [
+        {
+          "type": "Name", 
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404669", 
+              "type": "Type", 
+              "_label": "Display Title"
+            }
+          ], 
+          "content": "1921-1922"
+        }
+      ], 
+      "begin_of_the_begin": "1921-01-01T00:00:00Z",
+      "end_of_the_end": "1922-12-31T23:59:59Z"
+    }, 
+    "took_place_at": [
+      {
+        "id": "http://vocab.getty.edu/tgn/7000457", 
+        "type": "Place", 
+        "_label": "Mont-roig del Camp, Spain"
+      }
+    ], 
+    "carried_out_by": [
+      {
+        "id": "http://vocab.getty.edu/ulan/500010879", 
+        "type": "Person", 
+        "_label": "Juan Miro"
+      }
+    ]
+  }
+}
